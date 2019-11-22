@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+h2{
+    text-align: center;
+}
+h2.NBA{
+    color: red;
+    background-color: blue;
+}
+h2.MANGA{
+    color:rebeccapurple;
+    background-color: beige;
+}
+h1.LINK{
+    color:salmon;
+    background-color: blueviolet;
+}
+body{
+    background-image:url("../images/abc.png");
+")
+}
