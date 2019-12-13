@@ -1,0 +1,14 @@
+div.a{
+    width:100px;
+    height:340px;
+    background-color: white;
+}
+div.b{
+    display: inline-block;
+    width:250px;
+    height:340px;
+    background-color: aqua
+}
+div c{
+    display: inline-block
+}
